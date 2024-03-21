@@ -2,13 +2,13 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('backgroundimg.jpg'); /* Add your background image path here */
+    background-image: url('backgroundimg1.jpg'); /* Add your background image path here */
     background-size: cover;
     background-repeat: no-repeat;
   }
   
   header {
-    background-image: url('backgroundimg.jpg');
+    background-image: url('backgroundimg1.jpg');
     background-size: cover;
     text-align: center;
     color: white;
@@ -18,7 +18,7 @@ body {
     text-align: center;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.8); /* Adjust the background color opacity as needed */
-    background-image: url('backgroundimg.jpg');
+    background-image: url('backgroundimg1.jpg');
     background-size: cover;
     text-align: center;
     color: white;
